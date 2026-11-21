@@ -1,0 +1,7 @@
+## Interface: 11509, 16001
+## Title: PingSound
+## Notes: Plays a sound you choose when someone pings. Turn WoW's own ping sound off. /pingsound
+## Author: babyhuey
+## Version: @project-version@
+## SavedVariables: PingSoundDB
+PingSound.lua
