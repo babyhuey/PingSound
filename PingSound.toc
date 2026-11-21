@@ -3,5 +3,6 @@
 ## Notes: Plays a sound you choose when someone pings. Turn WoW's own ping sound off. /pingsound
 ## Author: babyhuey
 ## Version: @project-version@
+## X-Curse-Project-ID: 1822081
 ## SavedVariables: PingSoundDB
 PingSound.lua
